@@ -1,0 +1,3 @@
+- Terminar o esqueleto da barra de tarefas e janelas
+- Terminar estilos
+- Adicionar funcionalidade
